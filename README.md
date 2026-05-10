@@ -1,4 +1,6 @@
 # CINEXA — Movies & Shows Explorer
+https://cinexa-max.github.io/cinexa/
+
 
 ## Features
 
